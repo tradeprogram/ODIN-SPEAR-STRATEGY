@@ -4,3 +4,6 @@ yfinance
 openpyxl
 requests
 numpy
+plotly
+scikit-learn
+lightgbm
